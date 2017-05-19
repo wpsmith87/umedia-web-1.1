@@ -20,6 +20,11 @@ summary, hgroup {
   padding: 0;
   border: 0;
 }
+* {
+
+font-family: 'Dosis', sans-serif;
+  
+}
 
 a:active,
 a:hover {
