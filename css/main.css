@@ -7,7 +7,7 @@ main .row {
 }
 
 .box {
-  height: 200px;
+  height: 400px;
   text-align: center;
   padding-top: 30px;
 }
@@ -27,4 +27,18 @@ main .row {
 
 .blue {
   background-color: #408362;
+}
+
+.small {
+height: 190px;
+
+}
+
+.top {
+padding-bottom: 10px;
+
+}
+
+.bottom{
+padding-top: 10px;
 }
